@@ -105,12 +105,6 @@ I aim to work at the intersection of Artificial Intelligence, Analytics, Busines
 
 ---
 
-## 📊 GitHub Activity
-
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakeyyy&show_icons=true&theme=tokyonight)
-
----
-
 ## Connect
 
 Always open to conversations around:
