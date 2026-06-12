@@ -45,12 +45,13 @@ Building a personal AI companion designed to make computer interactions more int
 
 ### 🍽 ReserveMyTable - Intelligent Restaurant Reservation Platform
 
-Developing a technology-driven platform to improve restaurant discovery and reservation experiences.
+Designed a full-stack prototype exploring digital restaurant reservation systems and customer experience improvements.
 
 **Focus Areas:**
 - Full Stack Development
-- Database Systems
-- Intelligent Software Solutions
+- Database Design
+- Backend Systems
+- Product Thinking
 
 ---
 
