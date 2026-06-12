@@ -85,6 +85,16 @@ Excel
 
 ---
 
+## 🚧 Building Journey
+
+Currently focused on:
+- Strengthening Machine Learning fundamentals
+- Building production-level AI projects
+- Publishing research work
+- Improving open-source contributions
+
+---
+
 ## 🎯 Long-Term Vision
 
 To build intelligent systems that combine:
@@ -107,9 +117,9 @@ I aim to work at the intersection of Artificial Intelligence, Analytics, Busines
 
 ## Connect
 
-Always open to conversations around:
+Open to collaborating and discussing:
 
-Artificial Intelligence • Analytics • Research • Technology Innovation
+Artificial Intelligence • Data Science • Research • Intelligent Systems
 
 ---
 
